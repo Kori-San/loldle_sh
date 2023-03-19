@@ -2,7 +2,7 @@
 
 ### Parameters
 # Language from "https://ddragon.leagueoflegends.com/cdn/languages.json"
-LANGUAGE="fr_FR"
+LANGUAGE="en_US"
 
 # Number of tries
 TRIES="3"
